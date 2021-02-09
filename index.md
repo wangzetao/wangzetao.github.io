@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 Test Markdown:
-[Link](_posts/2021-2-9-test.md)
+[Link](_posts/2021-2-9-test.md#content)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
