@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 encoding: utf-8
+lang: zh-CN
 timezone: Asia/Shanghai
 premalink: none
 title: wangzetao的博客
-description: 这些博客讲出了一些算法与数据结构
+description: 这个博客讲述了一些算法与数据结构
 description2: wangzetao的博客
