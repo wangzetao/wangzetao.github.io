@@ -29,6 +29,9 @@ Syntax highlighted code block
 Test Markdown:
 [Link](_posts/2021-2-9-test.md#content)
 
+Test blog:
+[Link](_posts/2019-9-14-树上差分.md#content)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
