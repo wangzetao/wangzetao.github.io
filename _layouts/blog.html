@@ -20,10 +20,10 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style>
+    <!-- <style>
       #content br {display: none;}
       #content p br {display: inline;}
-    </style>
+    </style> -->
   </head>
   <body>
 
@@ -56,7 +56,7 @@
           src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
       </script>
 
-      {{ content | newline_to_br }}
+      {{ content }}
 
       <div id="reviews"></div>
       <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
